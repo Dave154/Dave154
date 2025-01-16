@@ -2,6 +2,8 @@
 
 ## 👋 Hello, My Name is David Okpe ! 🚀
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dave154)](https://git.io/streak-stats)
+
 Welcome to my GitHub! I'm a **Frontend Developer** with a passion for building user-centric, visually stunning, and highly functional web applications. I specialize in crafting seamless user experiences using modern technologies and frameworks. Whether it's turning complex ideas into reality or collaborating on cutting-edge projects, I thrive on challenges that push the boundaries of frontend development.
 
 ---

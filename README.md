@@ -29,7 +29,7 @@ Tech Stack: **React**, **Firebase**, **Tailwind**,**Redux**
 
 ---
 
-### 🔹 Claripdf (In Progress)  
+### 🔹 [Claripdf](https://claripdf.vercel.app/)    
 A web app that converts image-based PDFs into text-extractable PDFs, making information more accessible and editable.  
 - 🖼️ Image recognition and text extraction  
 - 🔤 OCR-powered text conversion  

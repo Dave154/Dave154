@@ -34,6 +34,6 @@ A customer self-service supermarket application featuring virtual carts, categor
 
 ## Connect
 
-* **Portfolio:** [davidokpedev.vercel.app](https://davidokpedev.vercel.app/)
+* **Portfolio:** [davidokpe.cv](https://davidokpe.cv)
 * **LinkedIn:** [linkedin.com/in/david-okpe-a3686b297](https://www.linkedin.com/in/david-okpe-a3686b297)
 * **Email:** [okpedavid0@gmail.com](mailto:okpedavid0@gmail.com)
